@@ -1,6 +1,6 @@
-# MessageQueue
+# MessageQueue(MSMQ)
 
-Simple application to read, write and peek from a message queue.
+Simple application to read, write and peek from a message queue using MSMQ.
 
 Install as a window service:
 
