@@ -1,0 +1,8 @@
+C:\Source\testProj\testProj\bin\Release\testProj.exe.config
+C:\Source\testProj\testProj\bin\Release\testProj.exe
+C:\Source\testProj\testProj\bin\Release\testProj.pdb
+C:\Source\testProj\testProj\bin\Release\Newtonsoft.Json.dll
+C:\Source\testProj\testProj\bin\Release\Newtonsoft.Json.xml
+C:\Source\testProj\testProj\obj\Release\testProj.exe
+C:\Source\testProj\testProj\obj\Release\testProj.pdb
+C:\Source\testProj\testProj\obj\Release\testProj.csprojResolveAssemblyReference.cache

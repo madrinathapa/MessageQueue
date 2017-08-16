@@ -1,0 +1,7 @@
+C:\Source\testProj\testProj\bin\Debug\testProj.exe.config
+C:\Source\testProj\testProj\bin\Debug\testProj.exe
+C:\Source\testProj\testProj\bin\Debug\testProj.pdb
+C:\Source\testProj\testProj\bin\Debug\Newtonsoft.Json.dll
+C:\Source\testProj\testProj\bin\Debug\Newtonsoft.Json.xml
+C:\Source\testProj\testProj\obj\Debug\testProj.exe
+C:\Source\testProj\testProj\obj\Debug\testProj.pdb

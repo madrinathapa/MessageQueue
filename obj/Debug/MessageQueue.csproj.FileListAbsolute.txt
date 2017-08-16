@@ -1,0 +1,15 @@
+C:\Source\testProj\testProj\bin\Debug\Newtonsoft.Json.dll
+C:\Source\testProj\testProj\bin\Debug\Newtonsoft.Json.xml
+C:\Source\testProj\testProj\bin\Debug\MessageQueue.exe.config
+C:\Source\testProj\testProj\bin\Debug\MessageQueue.exe
+C:\Source\testProj\testProj\bin\Debug\MessageQueue.pdb
+C:\Source\testProj\testProj\obj\Debug\MessageQueue.exe
+C:\Source\testProj\testProj\obj\Debug\MessageQueue.pdb
+C:\Source\MessageQueue\MessageQueue\bin\Debug\MessageQueue.exe.config
+C:\Source\MessageQueue\MessageQueue\obj\Debug\MessageQueue.exe
+C:\Source\MessageQueue\MessageQueue\obj\Debug\MessageQueue.pdb
+C:\Source\MessageQueue\MessageQueue\bin\Debug\MessageQueue.exe
+C:\Source\MessageQueue\MessageQueue\bin\Debug\MessageQueue.pdb
+C:\Source\MessageQueue\MessageQueue\bin\Debug\Newtonsoft.Json.dll
+C:\Source\MessageQueue\MessageQueue\bin\Debug\Newtonsoft.Json.xml
+C:\Source\MessageQueue\MessageQueue\obj\Debug\MessageQueue.csprojResolveAssemblyReference.cache
